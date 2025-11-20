@@ -23,7 +23,7 @@ The frequency of oscillation is given by fo   = 1/2πRC
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/53ef7b91-7bd4-4e06-b98c-d80970261018" />
 
 ## TABULATION:
-<img width="1280" height="1062" alt="image" src="https://github.com/user-attachments/assets/9b8c1247-9b59-4add-b629-17f26025c6d3" />
+<img width="737" height="1280" alt="image" src="https://github.com/user-attachments/assets/345e7a77-bb3e-4471-a1ae-4626d765217e" />
 
 ## GRAPH:
 
@@ -69,5 +69,5 @@ To prevent loading,
 3.	Measure the output wave frequency and amplitude.
 
 ## RESULT:
-<img width="737" height="1280" alt="image" src="https://github.com/user-attachments/assets/345e7a77-bb3e-4471-a1ae-4626d765217e" />
 
+<img width="1280" height="1062" alt="image" src="https://github.com/user-attachments/assets/9b8c1247-9b59-4add-b629-17f26025c6d3" />
